@@ -17,14 +17,12 @@
 
 - 📫 How to reach me **qaziabuzar790@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Qazi%20Abuzar/Downloads/qazi-abuzar-resume.pdf](file:///C:/Users/Qazi%20Abuzar/Downloads/qazi-abuzar-resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qazi790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qazi790" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/qazi-abuzar-674a92341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/qazi-abuzar-674a92341/" height="30" width="40" /></a>
-<a href="https://fb.com/@abuzar-qazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@abuzar-qazi" height="30" width="40" /></a>
-<a href="https://instagram.com/@qazi_abuzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@qazi_abuzar" height="30" width="40" /></a>
+<a href="https://fb.com/abuzar-qazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abuzar-qazi" height="30" width="40" /></a>
+<a href="https://instagram.com/qazi_abuzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qazi_abuzar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@qazi_abuzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@qazi_abuzar" height="30" width="40" /></a>
 </p>
 
@@ -36,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qazi970&show_icons=true&locale=en" alt="qazi970" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qazi970&" alt="qazi970" /></p>
+
